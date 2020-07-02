@@ -9,7 +9,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: 3s linear 1s infinite running slidein;
+    animation: example 5s linear 2s infinite alternate;
   }
 }
 
